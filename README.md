@@ -23,13 +23,13 @@
 
 ## Architecture
 
-* Various model on AWS, Terraform
+* Various templates on AWS, Terraform
   - Based on situations and business needs.
 
 
 ## How To Use
 
-To import model from this repository, you'll need [Git](https://git-scm.com). Then type the following lines on your CLI:
+To import templates from this repository, you'll need [Git](https://git-scm.com). Then type the following lines on your CLI:
 
 ```bash
 # Clone this repository
