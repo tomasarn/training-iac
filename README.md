@@ -23,7 +23,7 @@
 
 ## Architecture
 
-* Various templates on AWS, Terraform
+* Various templates on AWS CloudFormation, Terraform
   - Based on situations and business needs.
 
 
