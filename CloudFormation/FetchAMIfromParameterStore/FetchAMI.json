@@ -110,7 +110,7 @@
 				"MinSize": {"Ref": "MinInstances"},
 				"VPCZoneIdentifier": {"Ref": "Subnets"},
 				"LaunchConfigurationName": {
-					"Ref": "LaunchConfiguration"
+                    "Ref": "LaunchConfiguration"
 				}
 			}
 		}
